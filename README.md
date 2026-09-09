@@ -1,8 +1,8 @@
-# Voltkart SQL Challenge — Session 1: Advanced SQL for Modern Data Engineering
+# Voltkart SQL Challenge — Advanced SQL for Modern Data Engineering
 
 Codebasics Data Engineering Bootcamp. Engine: SQL Server (T-SQL), run in SSMS on the `Voltkart` database.
 
-**Browse all 11 solutions in an interactive query bench:** enable GitHub Pages for this repo (Settings → Pages → Deploy from branch → `main` / `/docs`) and it will be live at `https://<your-username>.github.io/<repo-name>/`. See "Publishing the query bench" below.
+Browse all 11 solutions in an interactive query bench: [live here](https://mailtoafnk.github.io/voltkart-sql-challenge/)
 
 ## Repo structure
 
